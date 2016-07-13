@@ -6,7 +6,11 @@ This readme file describes the problem statement and the analysis performed on t
 ***
   - Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
   - Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
- 
+
+# Required Packages
+***
+plyr
+
 # Run_analysis.R - How it works
 ***
 1.  Download the dataset and read from the data set
